@@ -1222,7 +1222,7 @@
     var KeyManager = (function () {
       var $keymgr = $('<input type="radio" />').css({
         position: 'fixed',
-        left: '-120px',
+        left: '-222220px',
         width: '12px'
       }).addClass('jcrop-keymgr'),
 
